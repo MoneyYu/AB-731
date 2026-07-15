@@ -9,8 +9,8 @@ AB-731 是**商業領導者、無程式碼**課程，因此**沒有學員動手�
 講師的示範以 **Microsoft 365 Copilot**（SaaS，租戶層級）為主，用真實感的商業情境展示
 「Copilot 如何在會議與日常工作流程中創造價值」。
 
-現成的示範資產放在 **`../DEMO/20260415-Inventec/`**，以一家虛構的 ODM 製造商（英業達 / Inventec）
-為情境包裝，涵蓋三個貼近製造業的場景。
+現成的示範資產放在 **`../DEMO/20260415-Inventec/`**，以一家 ODM 製造商（英業達 / Inventec，**真實公司名稱**）
+為情境包裝、但**情境與資料皆為虛構**，涵蓋三個貼近製造業的場景。
 
 ### Terraform 為何 N/A
 course-prep 技能中的 Terraform 是「講師示範用的後備資源堆疊」。但本課的示範全部落在
@@ -24,7 +24,7 @@ course-prep 技能中的 Terraform 是「講師示範用的後備資源堆疊」
 |---|---|---|
 | Microsoft 365 Copilot（Chat / Teams / Word / Excel / Outlook / PowerPoint / Planner） | ✅ 充分 | 三個場景的核心 |
 | Copilot 會議全流程（會前／會中／會後、Facilitator、AI Summary、Channel Agent） | ✅ 充分 | 場景一/二/三皆有 |
-| Copilot Cowork（Frontier） | ◐ 部分 | 僅場景三 Demo 4 帶到端到端自動化 |
+| Copilot Cowork（2026-06-16 起 GA） | ◐ 部分 | 僅場景三 Demo 4 帶到端到端自動化 |
 | **Copilot Studio（打造／客製 agent）** | ❌ 未涵蓋 | 課程 B1 有教，但 Demo 無實作 |
 | **Microsoft Foundry / Azure AI（Vision/Language/Doc Intelligence/Search）** | ❌ 未涵蓋 | 課程 B2 / C1 有教，但 Demo 無實作 |
 | 負責任 AI 治理實作（C3） | ❌ 未涵蓋 | 概念課，Demo 僅口頭帶到 |
@@ -67,7 +67,9 @@ course-prep 技能中的 Terraform 是「講師示範用的後備資源堆疊」
 ## 5. 開課前設定（手動）
 
 1. **租戶與授權**：示範帳號需具備 **Microsoft 365 Copilot** 授權（含 Teams、Word、Excel、
-   Outlook、PowerPoint）。若要示範場景三 Demo 4，需可用 **Copilot Cowork**。
+   Outlook、PowerPoint）。**Copilot Cowork**（場景三 Demo 4）自 **2026-06-16 起 GA**，需
+   **Microsoft 365 Copilot 授權 + 使用量計費的 Copilot Credits**，且**預設為關閉**——須由系統管理員在
+   M365 系統管理中心啟用並設定用量上限。
 2. **上傳範例資料**：把第 3 節的 `.docx` / `.xlsx` 上傳到示範帳號的 OneDrive/SharePoint，並在
    Teams 建立對應頻道（例如 `#NPI-ProServerX200`），讓 Copilot 的跨 App 搜尋有資料可抓。
 3. **索引時間**：資料上傳後，Copilot/Graph 需要時間建索引；**請提前一天**準備，避免當天搜不到。
@@ -88,6 +90,8 @@ course-prep 技能中的 Terraform 是「講師示範用的後備資源堆疊」
   - 對外交付、公開錄影或放上公開平台前，請**改為中性化名稱**（例如「某 ODM 廠」）或
     取得相關方授權。
   - 不要把模擬的財務數字、供應商評估、逐字稿當成任何公司的真實資訊引用。
+- **測試身分與日期**：示範腳本內含早期日期與可路由的外部網域（例如 `@dell.com`）。每次交付前請
+  **改用專用測試帳號與保留網域、把日期更新為未來日期、並停用對外寄送**，避免示範時誤發真實郵件或行事曆邀請。
 - 本 `DEMO/` 目錄與範例檔屬 trainer-only；**不應**出現在學員面向的 `README.md` 中。
 
 ## 8. 關聯文件

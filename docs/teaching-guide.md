@@ -38,12 +38,12 @@
 | 休息 | | 15 min |
 | 上午後段 | **A2** 打造有效的生成式 AI 解決方案；A 路徑知識檢查與討論 | 75 min |
 | 午餐 | | 60 min |
-| 下午前段 | **B1** Copilot 解決方案（含 Teams 會議全流程 Demo）；**B2** Foundry Tools | 100 min |
+| 下午前段 | **B1** Copilot 解決方案（含 Teams 會議全流程 Demo 精簡版）；**B2** Foundry Tools | 100 min |
 | 休息 | | 15 min |
 | 下午後段 | **C1–C4** 轉型、五大準備度、負責任 AI、規模化；總結與認證行動 | 110 min |
 
 - **互動時間**：每個模組保留 5–10 分鐘做投影片內的「Reflect and discuss」與 Knowledge check。
-- Demo 建議安排在 B1（Copilot 實際運作最有感）；細節見 `demo-environment.md`。
+- Demo 建議安排在 B1（Copilot 實際運作最有感）；**課堂用 15–25 分鐘精簡版**，完整場景（80–120 分鐘）見 `demo-environment.md`，作為延伸或依產業選用。
 
 ---
 
@@ -89,7 +89,7 @@
 - **目標**：認識 Copilot 家族、如何對應到商業流程、如何導入與授權。
 - **關鍵講點**：
   - **Copilot 是什麼**：跨 Microsoft 產品的 AI 協助，結合 LLM 與**組織資料**，內建於 Word/Excel/PowerPoint/Outlook/Teams。
-  - 三大體驗：**Copilot Chat**（快速、具組織脈絡的問答）、**Microsoft 365 Copilot**（嵌入生產力 App）、**Copilot Studio**（低程式碼打造／客製 copilots 與 agents）。
+  - 三大體驗：**Copilot Chat**（快速問答；**取用組織資料需 Microsoft 365 Copilot 授權**，否則預設為網路基礎）、**Microsoft 365 Copilot**（嵌入生產力 App）、**Copilot Studio**（低程式碼打造／客製 copilots 與 agents）。
   - 專業 agents：**Researcher**（彙整知識做報告）、**Analyst**（把資料變洞察）。
   - **對應商業流程**：文件密集（草擬政策／提案）、資料密集（預測／預算）、會議密集（策略會、專案更新）。從影響營收／合規／客戶體驗的流程切入 ROI 最高。
   - **Microsoft Graph**：把人、文件、對話、行事曆串起來，讓 Copilot 的回答有真實商業脈絡且遵守權限。
@@ -131,7 +131,7 @@
 #### C2 — Create business value with AI（五大 AI 準備度驅動因子）
 - **目標**：用五大驅動因子把 AI 從實驗變成可靠的商業成果。
 - **五大驅動因子**（投影片 11–16）：
-  1. **Business strategy**：以結果排序使用情境；每個情境設 2–3 個 KPI；把 AI 當投資組合管理（Gartner：用組合管理者達成熟度機率 2.4×）。
+  1. **Business strategy**：以結果排序使用情境；每個情境設 2–3 個 KPI；把 AI 當投資組合管理（投影片引用 Gartner：採用投資組合管理者更可能達成 AI 成熟度，約 2.4×；**此為課程講者稿引用的數據，對外沿用前請向 Gartner 原始報告查證**）。
   2. **Technology and data strategy**：架構對齊策略、準備資料estate、build vs buy。
   3. **AI strategy and experience**：小規模快速試點、量測要點、跨職能團隊。
   4. **Organization and culture**：由上而下領導、賦能多元團隊、投資學習。
@@ -159,7 +159,7 @@
 **C 路徑 Knowledge check 解答（投影片 03/34）**
 1. 最能描述 Microsoft 365 Copilot 與 AI agents 如何轉變工作？→ **加速生產力、改善流程並促成功能性轉型**。
 2. 哪個原則確保 AI 以設計對相似的人與情況一視同仁？→ **Fairness（公平性）**。
-3. 四步框架的主要目的？→ **提供把 AI 採用連結到商業成果的結構化路線圖／超越試點達成可規模化、可衡量的商業影響**（兩個選項語意相近，用投影片動畫揭示官方答案並說明其「超越試點、聚焦成果」精神）。
+3. 四步框架的主要目的？→ **超越試點，達成可規模化、可衡量的商業影響**（投影片動畫標示的正解為此選項；「提供連結商業成果的結構化路線圖」語意雖相近，但非動畫標示的答案）。
 
 ---
 
@@ -184,7 +184,7 @@
 
 ## 6. 講師須知與時效性
 
-- **投影片版本＝2025 年 12 月**；本課對應 Learn 的 3 路徑 / 8 模組內容一致。若 Learn 之後改版，**以 Learn 為準**並在課堂說明差異。
+- **投影片版本＝2025 年 12 月**；投影片結構對應 Learn 的 3 路徑 / 8 模組，但**部分細節（產品名稱、授權方案、模型、Azure AI Search 等命名）可能已隨 Learn 於 2026 年更新而略有差異**。授課時**以 Learn 現行內容為準**並說明差異。
 - ⚠️ **考試 AB-731（英文版）預計於 2026-07-22 更新**；每次開課前請重新檢視 [study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-731)。
 - 投影片講者稿內有兩處小瑕疵（不影響授課）：Deck 02 第 2 頁備忘稿誤貼了 `leverage-ai-tools` 連結；Deck 03 第 27 頁備忘稿有一個網址錯字 `…/raining/modules/scale-ai/`。正確模組連結見 `../README.md`。
 - **Achievement Code vs 認證**：完成課程 → 拿 **Achievement Code**（完課徽章）；**認證** *AI Transformation Leader* 需另外**通過考試 AB-731**（Pearson VUE，45 分鐘，700/1000）。務必向學員清楚區分兩者。

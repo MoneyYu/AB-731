@@ -10,7 +10,7 @@ GA: G-DXYJBX6BH8
 ## Course
 :::success
 Date: 20260715
-Course ID: <ESI delivery ID>
+Course ID: TBD (numeric ESI delivery ID)
 :::
 
 :::info
@@ -37,7 +37,7 @@ Post Course Survey: [https://aka.ms/ab731survey](https://aka.ms/ab731survey)
 
 ## Lab
 :::warning
-AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Content is delivered through the slides and the self-paced Microsoft Learn modules in the [Links](#Links) section, reinforced by the in-class *Reflect and discuss* activities and knowledge checks. To practice for the exam, use the practice assessment on the [credential page](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/).
+AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Content is delivered through the slides and the self-paced Microsoft Learn modules in the [Links](#links) section, reinforced by the in-class *Reflect and discuss* activities and knowledge checks. To practice for the exam, use the practice assessment on the [credential page](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/).
 :::
 
 ## Links
@@ -46,7 +46,7 @@ AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Con
 
 [What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
 
-[Enterprise data protection in Microsoft 365 Copilot and Copilot Chat](https://learn.microsoft.com/en-us/microsoft-365/copilot/enterprise-data-protection)
+[Enterprise data protection in Microsoft 365 Copilot and Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/microsoft-365/copilot/enterprise-data-protection)
 
 [What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
 
@@ -68,7 +68,7 @@ AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Con
 [What is Microsoft Foundry? (model choices)](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
 
 ##### Prebuilt Copilot agents vs custom Azure AI agents
-[What is Microsoft Copilot Studio?](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
+[Microsoft Copilot Studio overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 
 ##### Microsoft 365 Copilot (predictable) vs Azure AI (pay-as-you-go) cost
 [What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
@@ -98,6 +98,12 @@ AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Con
 [Module](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-azure-ai-solutions/)
 
 [What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
+
+##### Prebuilt tools vs Foundry Models & RAG vs fine-tuning
+[Drive business value with AI using Microsoft Foundry Tools (module)](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-azure-ai-solutions/)
+
+##### Pay-as-you-go vs pre-paid (Foundry deployment types)
+[Understanding deployment types in Microsoft Foundry Models](https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/deployment-types)
 
 ### C — Transform your business with AI
 [Learning path](https://learn.microsoft.com/en-us/training/paths/transform-your-business-with-microsoft-ai/)
