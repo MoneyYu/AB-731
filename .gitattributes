@@ -61,3 +61,22 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+###############################################################################
+# AB-731: force binary handling for course & demo assets
+#
+# These formats are ZIP/binary containers or images. Leaving them under the
+# default "* text=auto" risks line-ending normalization that corrupts them.
+###############################################################################
+*.pptx binary
+*.ppt  binary
+*.docx binary
+*.doc  binary
+*.xlsx binary
+*.xls  binary
+*.pdf  binary
+*.zip  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
