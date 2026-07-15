@@ -24,21 +24,10 @@ Post Course Survey: [https://aka.ms/ab731survey](https://aka.ms/ab731survey)
 
 [Course AB-731 正體中文版本](https://learn.microsoft.com/zh-tw/training/courses/ab-731t00)
 
-[Learning path: Explore the business value of generative AI solutions](https://learn.microsoft.com/en-us/training/paths/explore-business-value-generative-ai-solutions/)
-
-[Learning path: Drive business value with AI solutions](https://learn.microsoft.com/en-us/training/paths/drive-value-generative-ai-solutions/)
-
-[Learning path: Transform your business with AI](https://learn.microsoft.com/en-us/training/paths/transform-your-business-with-microsoft-ai/)
-
 ## Infos
 [Learner Experience Portal (LxP)](https://esi.microsoft.com/)
 
 [ESI Support](https://aka.ms/esisupport)
-
-## Lab
-:::warning
-AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Content is delivered through the slides and the self-paced Microsoft Learn modules in the [Links](#links) section, reinforced by the in-class *Reflect and discuss* activities and knowledge checks. To practice for the exam, use the practice assessment on the [credential page](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/).
-:::
 
 ## Links
 ### Foundations & cross-cutting
@@ -58,22 +47,14 @@ AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Con
 
 [Work Trend Index: the year the Frontier Firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born)
 
-### A — Explore the business value of generative AI solutions
-[Learning path](https://learn.microsoft.com/en-us/training/paths/explore-business-value-generative-ai-solutions/)
-
-#### A1 — Understand the foundations of generative AI for business leaders
-[Module](https://learn.microsoft.com/en-us/training/modules/understand-foundations-generative-ai-business-leaders/)
-
-##### LLM vs SLM
+#### M01 — Understand the foundations of generative AI for business leaders
 [What is Microsoft Foundry? (model choices)](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
 
-##### Prebuilt Copilot agents vs custom Azure AI agents
 [Microsoft Copilot Studio overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 
-##### Microsoft 365 Copilot (predictable) vs Azure AI (pay-as-you-go) cost
 [What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
 
-#### A2 — Build effective generative AI solutions in your organization
+#### M02 — Build effective generative AI solutions in your organization
 [Module](https://learn.microsoft.com/en-us/training/modules/build-effective-generative-ai-solutions-organization/)
 
 [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering)
