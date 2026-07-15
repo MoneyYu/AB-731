@@ -5,12 +5,12 @@ GA: G-DXYJBX6BH8
 ---
 
 # AB-731 Reference
-> ##### **Course AB-731T00-A: Drive AI transformation in your organization**: <br/> A no-code course for **business leaders** on leading AI transformation — spotting high-impact opportunities, aligning AI investments to business goals, and championing **responsible AI** — using **Microsoft 365 Copilot**, **Copilot Studio**, **Microsoft Foundry**, and **Azure AI**.
+> ##### **Course AB-731T00-A: Drive AI transformation in your organization**: <br/> A no-code course for **business leaders** on leading AI transformation - spotting high-impact opportunities, aligning AI investments to business goals, and championing **responsible AI** - using **Microsoft 365 Copilot**, **Copilot Studio**, **Microsoft Foundry**, and **Azure AI**.
 
 ## Course
 :::success
 Date: 20260715
-Course ID: TBD (numeric ESI delivery ID)
+Course ID: 103636
 :::
 
 :::info
@@ -96,7 +96,7 @@ Post Course Survey: [https://aka.ms/ab731survey](https://aka.ms/ab731survey)
 
 ## C · Transform your business with AI
 ### C1 · Leverage AI tools & resources
-- Microsoft AI approach — "Becoming Frontier" (Business Solutions · Cloud & AI Platforms · Security)
+- Microsoft AI approach - "Becoming Frontier" (Business Solutions · Cloud & AI Platforms · Security)
 - Copilot & agents at work; Azure cloud & AI platforms
 - Secure AI: Govern · Secure · Manage ([AI strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy))
 ### C2 · Create business value (5 AI-readiness drivers)
@@ -110,27 +110,23 @@ Post Course Survey: [https://aka.ms/ab731survey](https://aka.ms/ab731survey)
 ```
 
 ## Achievement & Certification
-### Course achievement
-Completing **AB-731T00-A** earns an **Achievement Code** — claim your badge on your [Microsoft Learn profile](https://aka.ms/MyMicrosoftLearnProfile).
-
+![AI Transformation Leader](https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-transformation-leader.svg)
 ### Microsoft Certified: AI Transformation Leader (Exam AB-731)
 [Certification: Microsoft Certified: AI Transformation Leader](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/)
 
 [Study guide for Exam AB-731](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-731)
 
+[Exam duration and question types](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
+
 [Microsoft Certification Exam Sandbox](https://aka.ms/examdemo)
 
 [Renew your Microsoft Certification for free](https://aka.ms/RenewYourCert)
 
-:::info
-**Skills measured** — Identify the business value of generative AI solutions (35–40%) · Identify benefits, capabilities, and opportunities for Microsoft's AI apps and services (35–40%) · Identify an implementation and adoption strategy for Microsoft's AI apps and services (20–25%)
-:::
+[Microsoft Exam FAQ](https://learn.microsoft.com/en-us/credentials/certifications/online-exams)
 
-:::warning
-The English version of **Exam AB-731** is scheduled to be **updated on 2026-07-22** — re-check the study guide before each delivery.
-:::
+![exam](https://mdcontent.yu.money/contents/31b5b0d6ee886b9be732c5f03.png)
 
-![AI Transformation Leader](https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-transformation-leader.svg)
+SVG: [exam.svg](https://mttcontent.yu.money/common/exam.svg)
 
 ## Contact
 - Money Yu
