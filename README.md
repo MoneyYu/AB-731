@@ -1,82 +1,187 @@
 ---
-image: https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png
-tags: AB-730, Reference
+image: https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-transformation-leader.svg
+tags: AB-731, Reference
 GA: G-DXYJBX6BH8
 ---
 
-# AB-730 Reference
+# AB-731 Reference
+> ##### **Course AB-731T00-A: Drive AI transformation in your organization**: <br/> A no-code course for **business leaders** on leading AI transformation — spotting high-impact opportunities, aligning AI investments to business goals, and championing **responsible AI** — using **Microsoft 365 Copilot**, **Copilot Studio**, **Microsoft Foundry**, and **Azure AI**.
+
+## Course
 :::success
-Date: 20260416
-Course ID: 92232
+Date: 20260715
+Course ID: <ESI delivery ID>
 :::
 
 :::info
-Post Course Survey: [https://aka.ms/ab730survey](https://aka.ms/ab730survey)
+Post Course Survey: [https://aka.ms/ab731survey](https://aka.ms/ab731survey)
 :::
 
 ## Course Materials
-[Course AB-730 English version](https://learn.microsoft.com/en-us/training/courses/ab-730t00)
-[Course AB-730 简体中文版本](https://learn.microsoft.com/zh-cn/training/courses/ab-730t00)
-[Course AB-730 正體中文版本](https://learn.microsoft.com/zh-tw/training/courses/ab-730t00)
+[Course AB-731 English version](https://learn.microsoft.com/en-us/training/courses/ab-731t00)
+
+[Course AB-731 简体中文版本](https://learn.microsoft.com/zh-cn/training/courses/ab-731t00)
+
+[Course AB-731 正體中文版本](https://learn.microsoft.com/zh-tw/training/courses/ab-731t00)
+
+[Learning path: Explore the business value of generative AI solutions](https://learn.microsoft.com/en-us/training/paths/explore-business-value-generative-ai-solutions/)
+
+[Learning path: Drive business value with AI solutions](https://learn.microsoft.com/en-us/training/paths/drive-value-generative-ai-solutions/)
+
+[Learning path: Transform your business with AI](https://learn.microsoft.com/en-us/training/paths/transform-your-business-with-microsoft-ai/)
 
 ## Infos
-[Learner Experience Portal](https://esi.microsoft.com/)
+[Learner Experience Portal (LxP)](https://esi.microsoft.com/)
+
 [ESI Support](https://aka.ms/esisupport)
 
-## Course Info
-![info](https://mdcontent.yu.money/contents/rtqaird3hrk8nl8gqa7ivvb28.png)
+## Lab
+:::warning
+AB-731 is a **business-leader course with no hands-on Azure/Skillable lab**. Content is delivered through the slides and the self-paced Microsoft Learn modules in the [Links](#Links) section, reinforced by the in-class *Reflect and discuss* activities and knowledge checks. To practice for the exam, use the practice assessment on the [credential page](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/).
+:::
 
 ## Links
+### Foundations & cross-cutting
 [Overview of Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
 
-[Enterprise data protection in Microsoft 365 Copilot and Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/microsoft-365/enterprise-data-protection)
+[What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
 
-[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering)
+[Enterprise data protection in Microsoft 365 Copilot and Copilot Chat](https://learn.microsoft.com/en-us/microsoft-365/copilot/enterprise-data-protection)
 
-[System message design](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/advanced-prompt-engineering)
+[What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
 
-[Learn about Copilot prompts](https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5)
+[What is Responsible AI? (the six principles)](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai)
 
-[Microsoft 365 Copilot Prompts Gallery](https://m365.cloud.microsoft/chat?fromcode=cmmqidzluiz&auth=2)
+[Microsoft's approach to Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 
-### Agent
-[Choose between Microsoft 365 Copilot and Copilot Studio to build your agent](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/copilot-studio-experience)
+[AI strategy (Cloud Adoption Framework)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy)
 
-[Copilot Studio licensing](https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing)
+[Work Trend Index: the year the Frontier Firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born)
 
-[Add knowledge sources to your declarative agent in Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-add-knowledge)
+### A — Explore the business value of generative AI solutions
+[Learning path](https://learn.microsoft.com/en-us/training/paths/explore-business-value-generative-ai-solutions/)
 
-### Copilot CoWork
-[Copilot CoWork (Frontier)](https://aka.ms/cowork)
+#### A1 — Understand the foundations of generative AI for business leaders
+[Module](https://learn.microsoft.com/en-us/training/modules/understand-foundations-generative-ai-business-leaders/)
 
-[Copilot Cowork](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/)
+##### LLM vs SLM
+[What is Microsoft Foundry? (model choices)](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
 
-[Copilot Cowork overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/)
+##### Prebuilt Copilot agents vs custom Azure AI agents
+[What is Microsoft Copilot Studio?](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 
-[Video: Meet Copilot Cowork: A New Way of Getting Work Done](https://youtu.be/j8rHJsM3fxQ)
+##### Microsoft 365 Copilot (predictable) vs Azure AI (pay-as-you-go) cost
+[What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
 
-[Video: Organize your week with Copilot Cowork](https://youtu.be/BL95ZlP8cgY)
+#### A2 — Build effective generative AI solutions in your organization
+[Module](https://learn.microsoft.com/en-us/training/modules/build-effective-generative-ai-solutions-organization/)
 
-[Video: Plan a product launch workflow with Copilot Cowork](https://youtu.be/9uRuf7nB4cg)
+[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering)
 
-[Video: Build a financial research report with Copilot Cowork](https://youtu.be/BL95ZlP8cgY)
+### B — Drive business value with AI solutions
+[Learning path](https://learn.microsoft.com/en-us/training/paths/drive-value-generative-ai-solutions/)
 
-[Video: Copilot Cowork: Sales and Finance Workflows](https://youtu.be/h7nv7OCfsCY)
+#### B1 — Drive business value with Microsoft Copilot solutions
+[Module](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-copilot-solutions/)
 
-## Exam
-[AB-730 Exam Page](https://learn.microsoft.com/en-us/credentials/certifications/ai-business-professional)
-[Exam duration and question types](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
-[Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-730)
+[Enterprise context with Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
-[Exam Sandbox](https://aka.ms/examdemo)
-[Microsoft Exam FAQ](https://docs.microsoft.com/en-us/learn/certifications/online-exams)
-[Renew your Microsoft Certifications for free. Stay Microsoft Certified!](https://aka.ms/RenewYourCertVideo)
-[Microsoft Learn for all role-based Microsoft Certification exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/ba-p/3500870?WT.mc_id=general_Twitter-wwl)
-<!--[](https://aka.ms/LxPExamDiscountVideo)-->
+[Extend Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/)
 
-![exam](https://mdcontent.yu.money/contents/31b5b0d6ee886b9be732c5f03.png)
+##### Copilot Chat vs Microsoft 365 Copilot vs Copilot Studio
+[Overview of Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
 
-SVG: [exam.svg](https://mttcontent.yu.money/common/exam.svg)
+##### Buy vs Extend vs Build
+[Licensing and cost considerations for Copilot extensibility](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/cost-considerations)
+
+#### B2 — Drive business value with AI using Microsoft Foundry Tools
+[Module](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-azure-ai-solutions/)
+
+[What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
+
+### C — Transform your business with AI
+[Learning path](https://learn.microsoft.com/en-us/training/paths/transform-your-business-with-microsoft-ai/)
+
+#### C1 — Leverage AI tools and resources for your business
+[Module](https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/)
+
+[AI strategy (Cloud Adoption Framework)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy)
+
+#### C2 — Create business value with AI
+[Module](https://learn.microsoft.com/en-us/training/modules/create-business-value/)
+
+#### C3 — Embrace responsible AI principles and practices
+[Module](https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/)
+
+[Responsible AI practices for Azure OpenAI in Foundry](https://learn.microsoft.com/en-us/azure/foundry/responsible-ai/openai/overview)
+
+#### C4 — Scale AI in your organization
+[Module](https://learn.microsoft.com/en-us/training/modules/scale-ai/)
+
+## Mind Map
+```markmap
+# Drive AI transformation in your organization (AB-731)
+
+## A · Explore the business value of generative AI solutions
+### A1 · Foundations of generative AI for business leaders
+- What is (generative) AI; **LLM vs SLM**
+- [Microsoft generative AI solutions](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview): Copilot, Azure AI, GitHub / Dynamics 365 / Power Platform
+- Agents: prebuilt (Copilot) **vs** custom ([Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) / Azure AI)
+- Model types & selection; cost drivers (Copilot predictable **vs** Azure AI pay-as-you-go)
+- Challenges & opportunities: reliability, bias, grounding
+### A2 · Build effective generative AI solutions
+- [Prompt engineering](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering): Goal · Context · Source · Expectations
+- Grounding & RAG (trusted data)
+- Data quality, security & governance
+- Machine learning value & lifecycle
+
+## B · Drive business value with AI solutions
+### B1 · Microsoft Copilot solutions
+- [Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview) **vs** [Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview) **vs** Copilot Studio
+- Map business processes; [Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview) context
+- Buy **vs** Extend **vs** Build; responsible AI in Copilot; [licensing](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/cost-considerations)
+### B2 · Microsoft Foundry Tools
+- [Why Microsoft Foundry](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry): orchestration & governance
+- Core capabilities: Vision, Language, Document Intelligence, Search
+- Choose the right Foundry model; subscription models
+
+## C · Transform your business with AI
+### C1 · Leverage AI tools & resources
+- Microsoft AI approach — "Becoming Frontier" (Business Solutions · Cloud & AI Platforms · Security)
+- Copilot & agents at work; Azure cloud & AI platforms
+- Secure AI: Govern · Secure · Manage ([AI strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy))
+### C2 · Create business value (5 AI-readiness drivers)
+- Business strategy · Technology & data · AI strategy & experience · Organization & culture · AI governance
+### C3 · Embrace responsible AI
+- Six principles: Fairness · Reliability & Safety · Privacy & Security · Inclusiveness · Transparency · Accountability
+- [Governance system](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai); Responsible AI at Microsoft
+### C4 · Scale AI
+- Becoming Frontier: Educate · Assess · Map · Build
+- Organize for AI success (roles); empower business users & subject-matter experts
+```
+
+## Achievement & Certification
+### Course achievement
+Completing **AB-731T00-A** earns an **Achievement Code** — claim your badge on your [Microsoft Learn profile](https://aka.ms/MyMicrosoftLearnProfile).
+
+### Microsoft Certified: AI Transformation Leader (Exam AB-731)
+[Certification: Microsoft Certified: AI Transformation Leader](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-leader/)
+
+[Study guide for Exam AB-731](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ab-731)
+
+[Microsoft Certification Exam Sandbox](https://aka.ms/examdemo)
+
+[Renew your Microsoft Certification for free](https://aka.ms/RenewYourCert)
+
+:::info
+**Skills measured** — Identify the business value of generative AI solutions (35–40%) · Identify benefits, capabilities, and opportunities for Microsoft's AI apps and services (35–40%) · Identify an implementation and adoption strategy for Microsoft's AI apps and services (20–25%)
+:::
+
+:::warning
+The English version of **Exam AB-731** is scheduled to be **updated on 2026-07-22** — re-check the study guide before each delivery.
+:::
+
+![AI Transformation Leader](https://learn.microsoft.com/en-us/media/learn/certification/badges/ai-transformation-leader.svg)
 
 ## Contact
 - Money Yu
