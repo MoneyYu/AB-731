@@ -31,79 +31,41 @@ Post Course Survey: [https://aka.ms/ab731survey](https://aka.ms/ab731survey)
 
 ## Links
 ### Foundations & cross-cutting
-[Overview of Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
-
 [What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
+
+[Overview of Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
 
 [Enterprise data protection in Microsoft 365 Copilot and Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/microsoft-365/copilot/enterprise-data-protection)
 
 [What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
 
-[What is Responsible AI? (the six principles)](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai)
-
-[Microsoft's approach to Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
-
-[AI strategy (Cloud Adoption Framework)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy)
-
 [Work Trend Index: the year the Frontier Firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born)
 
-#### M01 — Understand the foundations of generative AI for business leaders
-[What is Microsoft Foundry? (model choices)](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
-
-[Microsoft Copilot Studio overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
-
-[What is Microsoft 365 Copilot?](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
-
-#### M02 — Build effective generative AI solutions in your organization
-[Module](https://learn.microsoft.com/en-us/training/modules/build-effective-generative-ai-solutions-organization/)
-
+### M02 - Build effective generative AI solutions in your organization
 [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/prompt-engineering)
 
-### B — Drive business value with AI solutions
-[Learning path](https://learn.microsoft.com/en-us/training/paths/drive-value-generative-ai-solutions/)
+### M03 - Drive business value with Microsoft Copilot solutions
+[Licensing and cost considerations for Copilot extensibility](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/cost-considerations)
 
-#### B1 — Drive business value with Microsoft Copilot solutions
-[Module](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-copilot-solutions/)
+#### Extend & customize Copilot
+[Microsoft Copilot Studio overview](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 
 [Enterprise context with Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
 [Extend Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/)
 
-##### Copilot Chat vs Microsoft 365 Copilot vs Copilot Studio
-[Overview of Microsoft 365 Copilot Chat](https://learn.microsoft.com/en-us/copilot/overview)
-
-##### Buy vs Extend vs Build
-[Licensing and cost considerations for Copilot extensibility](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/cost-considerations)
-
-#### B2 — Drive business value with AI using Microsoft Foundry Tools
-[Module](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-azure-ai-solutions/)
-
-[What is Microsoft Foundry?](https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry)
-
-##### Prebuilt tools vs Foundry Models & RAG vs fine-tuning
-[Drive business value with AI using Microsoft Foundry Tools (module)](https://learn.microsoft.com/en-us/training/modules/business-value-microsoft-azure-ai-solutions/)
-
-##### Pay-as-you-go vs pre-paid (Foundry deployment types)
+### M04 - Drive business value with AI using Microsoft Foundry Tools
 [Understanding deployment types in Microsoft Foundry Models](https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/deployment-types)
 
-### C — Transform your business with AI
-[Learning path](https://learn.microsoft.com/en-us/training/paths/transform-your-business-with-microsoft-ai/)
-
-#### C1 — Leverage AI tools and resources for your business
-[Module](https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/)
-
+### M05 - Leverage AI tools and resources for your business
 [AI strategy (Cloud Adoption Framework)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai/strategy)
 
-#### C2 — Create business value with AI
-[Module](https://learn.microsoft.com/en-us/training/modules/create-business-value/)
+### M07 - Embrace responsible AI principles and practices
+[What is Responsible AI? (the six principles)](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai)
 
-#### C3 — Embrace responsible AI principles and practices
-[Module](https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/)
+[Microsoft's approach to Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 [Responsible AI practices for Azure OpenAI in Foundry](https://learn.microsoft.com/en-us/azure/foundry/responsible-ai/openai/overview)
-
-#### C4 — Scale AI in your organization
-[Module](https://learn.microsoft.com/en-us/training/modules/scale-ai/)
 
 ## Mind Map
 ```markmap
